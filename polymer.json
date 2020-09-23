@@ -1,0 +1,16 @@
+{
+  "entrypoint": "index.html",
+  "shell": "happi-app.js",
+  "builds": [
+    {
+      "name" : "dev"
+    }
+  ],
+  "moduleResolution": "node",
+  "npm": true,
+  "lint": {
+    "rules": [
+      "polymer-3"
+    ]
+  }
+}

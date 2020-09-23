@@ -1,0 +1,14 @@
+{
+  "name": "the-grid",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "polymer serve"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@fluidnext-polymer/paper-grid": "^3.0.4"
+  }
+}

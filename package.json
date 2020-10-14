@@ -9,6 +9,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@fluidnext-polymer/paper-grid": "^3.0.4"
+    "paper-grid": "https://github.com/sarbull/paper-grid.git#3.0.5"
   }
 }

@@ -1,0 +1,23 @@
+{
+  "name": "happi",
+  "version": "0.0.0",
+  "description": "happi framework",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarbull/happi.git"
+  },
+  "keywords": [
+    "happi",
+    "web",
+    "components",
+    "skeleton"
+  ],
+  "author": "Sirbu Nicolae-Cezar <sirbunicolaecezar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sarbull/happi/issues"
+  },
+  "homepage": "https://github.com/sarbull/happi#readme"
+}

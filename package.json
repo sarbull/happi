@@ -10,5 +10,15 @@
   "license": "MIT",
   "dependencies": {
     "paper-grid": "https://github.com/sarbull/paper-grid.git#3.0.5"
+  },
+  "devDependencies": {
+    "http-server": "^0.12.3",
+    "@polymer/iron-demo-helpers": "^3.1.0",
+    "@polymer/test-fixture": "^4.0.2",
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "polymer-cli": "^1.9.11",
+    "wct-mocha": "^1.0.1"
   }
 }
